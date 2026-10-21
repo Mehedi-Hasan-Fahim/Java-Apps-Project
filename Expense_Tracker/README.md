@@ -41,7 +41,7 @@ To run the desktop application (`.exe`) or the source code, your local computer 
   ```bash
   java -version
 
-```
+
 
 ### 2. MySQL Server Configuration
 
