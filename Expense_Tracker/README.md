@@ -151,6 +151,5 @@ Expense_Tracker/
 
 
 ## 👤 Author
-
-* **Mehedi Hasan Fahim** - [GitHub Profile](https://www.google.com/search?q=https://github.com/Mehedi-Hasan-Fahim)
+[@Mehedi-Hasan-Fahim](https://github.com/Mehedi-Hasan-Fahim)
 
